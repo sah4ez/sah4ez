@@ -4,6 +4,6 @@ I'm software engineer.
 
 # Interesting
 
-Quantum technologies.
-Networks.
-Go.
+- Quantum technologies.
+- Networks.
+- Go.
