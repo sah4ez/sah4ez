@@ -7,3 +7,7 @@ I'm software engineer.
 - Quantum technologies.
 - Networks.
 - Go.
+
+# Jami
+
+@sah4ez
