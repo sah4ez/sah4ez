@@ -1,8 +1,8 @@
 # About
 
-I'm software engineer.
+I'm a software engineer.
 
-# Interesting
+# Interested in
 
 - Quantum technologies.
 - Networks.
